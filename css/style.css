@@ -83,3 +83,39 @@ body{
     vertical-align: middle;
     color: #fff;
 }
+
+.menu-table {
+    width: 960px;
+    margin: auto;
+}
+
+table {
+    width: 960px;
+    text-align: center;
+}
+
+table, tr, th, td {
+    border: 3px solid #fff;
+}
+
+.tg {
+    width: 320px;
+    height: 120px;
+    background-color: #6b9ab3;
+    text-align: center;
+    color: #fff;
+}
+
+.tg:hover, .tgd:hover {
+    background-color: #426c83;
+    color: #fff;
+}
+
+.tgd {
+    width: 960px;
+    height: 50px;
+    vertical-align: middle;
+    background-color: #6b9ab3;
+    text-align: center;
+    color: #fff;
+}
