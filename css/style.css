@@ -119,3 +119,22 @@ table, tr, th, td {
     text-align: center;
     color: #fff;
 }
+
+input[type=text] {
+    text-decoration: none;
+    border-radius: 25px;
+    height: 35px;
+    border: 0;
+}
+
+button[type=submit] {
+    border: 0;
+    border-radius: 5px;
+    height: 35px;
+}
+
+button[type=submit]:hover {
+    color: #D05B4A;
+    background-color: #000;
+    opacity: 0.8;
+}
